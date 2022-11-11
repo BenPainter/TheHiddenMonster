@@ -11,7 +11,7 @@ For this project, I used unity’s 2D libraries to create the basic movements an
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+
 * [Unity - Scripting Reference](https://docs.unity3d.com/ScriptReference/index.html)
 * [Unity Forums](https://forum.unity.com/)
 
