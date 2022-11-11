@@ -3,7 +3,7 @@
 
 The main goal of this project was to design the framework of a level-based, arcade-style game. You play as a dog’s immune system fighting different kinds of germs. The game currently has 3 different types of germs that spawn in. There is the basic red germ that just moves in a straight line. There is the blue germ that randomly changes its direction every second or two. The purple and green germ will move in a zigzag pattern. The germs will spawn anywhere and will attempt to reach the opposite wall. If they reach it, the player takes damage. The dog’s job is to move around and destroy all the germs before they touch the wall.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/O3rJ0mxgupA)
 
 # Development Environment
 
